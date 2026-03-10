@@ -26,4 +26,14 @@ AI-powered IoT system for smart crop protection. Uses computer vision on Raspber
 - Drone-based surveillance
 - AI model using YOLO
 - Night vision monitoring
+
+## Demo Video
+
+This video demonstrates the bird detection system, ESP32 buzzer activation,
+and the live monitoring dashboard.....
+
+Watch the working demo of the system here:
+
+[Project Demo Video]
+(https://drive.google.com/drive/folders/1cFge5qMiFq25yhsNihRNnqUq1N08zOX-)
   
